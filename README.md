@@ -1,9 +1,9 @@
 # Injured in Madrid due to traffic accidents during 2019
 
-<h4>by Iván Lucas López</h4>
+#by Iván Lucas López
 
-Study on traffic accidents in Madrid
 
+##Study on traffic accidents in Madrid
 
 ### Table of Contents
 
@@ -15,26 +15,28 @@ Study on traffic accidents in Madrid
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  
+The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interestested in using El Ayuntamiento de Madrid data from 2019 about traffic accidents in Madrid to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
-
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
-
+1. How many traffic accident occurred in Madrid during 2019?, How many people are involved? and What is the average number of people involved in a traffic accident?
+2. What day of the week are there the most accidents?
+3. What time do most accidents occur?
+4. At what age are more traffic accidents suffered?
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There are 3 files available here to showcase work related to the above questions.  
+1. README.md
+2. 2019_Accidentalidad.csv
+  - Traffic accidents in the City of Madrid registered by the Municipal Police.
+  - One record is included per person involved in the accident.
+  - Witness records not included.
+  
+3. Traffic_accident.py, This `.py` file runs the necessary code to obtain the answers to the avobe questions.
 
 ## Results<a name="results"></a>
 
@@ -42,4 +44,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to El Ayuntamiento de Madrid for the data.  
+You can find the Licensing for the data and other descriptive information at the link available [here](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default).
