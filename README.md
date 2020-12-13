@@ -1,6 +1,6 @@
 # Injured in Madrid due to traffic accidents during 2019
 
-# by Iván Lucas López
+### by Iván Lucas López
 
 
 ## Study on traffic accidents in Madrid
@@ -42,7 +42,7 @@ There are 3 files available here to showcase work related to the above questions
   - One record is included per person involved in the accident.
   - Witness records not included.
   
-3. Traffic_accident.py, This `.py` file runs the necessary code to obtain the answers to the avobe questions.
+3. Traffic_accident.py. This `.py` file runs the necessary code to obtain the answers to the avobe questions.
 
 ## Results<a name="results"></a>
 
