@@ -2,9 +2,6 @@
 
 ### by Iván Lucas López
 
-
-## Study on traffic accidents in Madrid
-
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -20,7 +17,9 @@ The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using El Ayuntamiento de Madrid data from 2019 about traffic accidents in Madrid to better understand:
+**Study on traffic accidents in Madrid**
+
+For this project, I was interestested in using El Ayuntamiento de Madrid data from 2019 about traffic accidents to better understand:
 
 1. How many traffic accident occurred in Madrid during 2019?, 
   How many people are involved? and 
