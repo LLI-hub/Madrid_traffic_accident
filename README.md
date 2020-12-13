@@ -1,9 +1,9 @@
 # Injured in Madrid due to traffic accidents during 2019
 
-#by Iván Lucas López
+# by Iván Lucas López
 
 
-##Study on traffic accidents in Madrid
+## Study on traffic accidents in Madrid
 
 ### Table of Contents
 
@@ -22,15 +22,21 @@ The code should run with no issues using Python versions 3.*.
 
 For this project, I was interestested in using El Ayuntamiento de Madrid data from 2019 about traffic accidents in Madrid to better understand:
 
-1. How many traffic accident occurred in Madrid during 2019?, How many people are involved? and What is the average number of people involved in a traffic accident?
+1. How many traffic accident occurred in Madrid during 2019?, 
+  How many people are involved? and 
+  What is the average number of people involved in a traffic accident?
+  
 2. What day of the week are there the most accidents?
+
 3. What time do most accidents occur?
+
 4. At what age are more traffic accidents suffered?
 
 ## File Descriptions <a name="files"></a>
 
 There are 3 files available here to showcase work related to the above questions.  
 1. README.md
+
 2. 2019_Accidentalidad.csv
   - Traffic accidents in the City of Madrid registered by the Municipal Police.
   - One record is included per person involved in the accident.
